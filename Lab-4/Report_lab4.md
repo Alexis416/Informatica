@@ -10,3 +10,4 @@
 
 В каждом таком файле прописываем команды, которые представлены на скрине:
 
+![screen2](https://github.com/Alexis416/Informatics/blob/main/Lab-4/2.png)
