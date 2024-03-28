@@ -28,11 +28,10 @@
 ## 2. Создание сети между контейнерами
 Каждый из запущенных контейнеров подключаем к сети, которую создаём
 
-tytr
+![screen5](https://github.com/Alexis416/Informatics/blob/main/Lab-4/5.png)
 
 Просматриваем настройки созданной сети. Данные о ней выглядят следующим образом:
 
-jjj
-kuk
+![screen6](https://github.com/Alexis416/Informatics/blob/main/Lab-4/6(1)png)
+![screen7](https://github.com/Alexis416/Informatics/blob/main/Lab-4/7.png)
 
-С помощью команды docker attach 
