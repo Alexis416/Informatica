@@ -35,3 +35,9 @@
 ![screen6](https://github.com/Alexis416/Informatics/blob/main/Lab-4/6(1).png)
 ![screen7](https://github.com/Alexis416/Informatics/blob/main/Lab-4/7.png)
 
+В каждом из контейнеров пытаемся подключиться к другому контейнеру с помощью команды ping:
+
+пгпгн
+рпгшп
+
+Как можно заметить, потеря пакетов равна нулю, а значит подключение произошло успешно
