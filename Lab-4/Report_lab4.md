@@ -32,6 +32,6 @@
 
 Просматриваем настройки созданной сети. Данные о ней выглядят следующим образом:
 
-![screen6(1)](https://github.com/Alexis416/Informatics/blob/main/Lab-4/6(1)png)
+![screen6](https://github.com/Alexis416/Informatics/blob/main/Lab-4/6(1).png)
 ![screen7](https://github.com/Alexis416/Informatics/blob/main/Lab-4/7.png)
 
