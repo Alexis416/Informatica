@@ -28,11 +28,11 @@
 ## 2. Создание сети между контейнерами
 Каждый из запущенных контейнеров подключаем к сети, которую создаём
 
-![screen5](https://github.com/Alexis416/Informatics/blob/main/Lab-4/5.png)
+tytr
 
 Просматриваем настройки созданной сети. Данные о ней выглядят следующим образом:
 
-![screen6](https://github.com/Alexis416/Informatics/blob/main/Lab-4/6.png)
-![screen7](https://github.com/Alexis416/Informatics/blob/main/Lab-4/7.png)
+jjj
+kuk
 
 С помощью команды docker attach 
