@@ -32,6 +32,7 @@
 
 Просматриваем настройки созданной сети. Данные о ней выглядят следующим образом:
 
-ошукркп
+![screen6](https://github.com/Alexis416/Informatics/blob/main/Lab-4/6.png)
+![screen7](https://github.com/Alexis416/Informatics/blob/main/Lab-4/7.png)
 
 С помощью команды docker attach 
