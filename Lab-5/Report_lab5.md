@@ -17,3 +17,9 @@ git push origin main
 git branch feature-branch
 git checkout feature-branch
 ```
+В новую созданную ветку feature-branch добавим старый файл, в котором будет добавлен ещё текст:
+```
+git add ex.txt
+git commit -m "File added 2 ex.txt"
+git push origin feature-branch
+```
