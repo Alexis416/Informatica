@@ -23,3 +23,9 @@ git add example1.txt
 git commit -m "File added 2 example1.txt"
 git push origin feature-branch
 ```
+В завершение, переключимся на основную ветку и сольём изменения из ветки feature-branch в основную ветку:
+```
+git checkout main
+git merge feature-branch
+git push origin main
+```
