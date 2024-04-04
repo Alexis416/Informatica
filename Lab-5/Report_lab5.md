@@ -135,3 +135,4 @@ git merge feature-login
 ```
 В консоли появятся такие сообщения:
 
+![screen1](https://github.com/Alexis416/Informatics/blob/main/Lab-5/1.png)
