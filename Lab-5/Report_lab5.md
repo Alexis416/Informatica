@@ -107,7 +107,7 @@ git checkout feature-login
 ```
 Делаем коммит изменений и отправляем на GitHub:
 ```
-git add README.md
+git add example2.md
 git commit -m "Добавлен раздел о магии конфликтов"
 git push origin feature-login
 ```
