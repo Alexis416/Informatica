@@ -234,3 +234,5 @@ git flow hotfix finish hotfix-1.0.1
 git push origin develop
 git push origin main
 ```
+
+![screen3](https://github.com/Alexis416/Informatics/blob/main/Lab-5/3.png)
