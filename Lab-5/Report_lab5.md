@@ -199,3 +199,19 @@ git commit -m "Добавлен функционал управления зад
 git flow feature finish task-management
 ```
 Git Flow автоматически переключится на ветку develop и выполнит слияние.
+
+Переключимся на ветку "develop" и начнём создание релиза:
+```
+git checkout develop
+git flow release start v1.0.0
+```
+Обновим версию в файле version.txt:
+```
+echo "v1.0.0" > version.txt
+git add version.txt
+git commit -m "Обновлена версия для релиза v1.0.0"
+```
+В конце, завершаем релиз и объединяем его с двумя ветками "develop" и "main":
+```
+git flow release finish v1.0.0
+```
