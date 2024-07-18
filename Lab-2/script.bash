@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 a=$1
 array_num=$(echo $a | tr "." "\n")
 perevod_num ()
